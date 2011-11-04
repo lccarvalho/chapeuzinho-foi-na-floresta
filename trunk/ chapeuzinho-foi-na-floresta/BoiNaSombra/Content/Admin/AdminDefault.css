@@ -1,0 +1,37 @@
+﻿#Menu
+{
+	position: absolute;
+	height:100px;
+	width:99%;
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+
+.MenuOption
+{
+	display:inline;
+	float:left;
+	margin:0 2%;
+	width:8%;
+}
+
+.MenuOption ul
+{
+	display:none;
+	padding:0 50% 5% 10%;
+	margin:0;
+	background-color:Yellow;	
+}
+
+.MenuOption li
+{
+	list-style:none;
+}
+
+#Content
+{
+	position:relative;
+	top:100px;
+	float:left;
+}

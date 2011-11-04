@@ -1,0 +1,5 @@
+c:\users\rudarobson\documents\visual studio 2010\Projects\BoiNaSombra\BoiNaSombra\bin\BoiNaSombra.dll
+c:\users\rudarobson\documents\visual studio 2010\Projects\BoiNaSombra\BoiNaSombra\bin\BoiNaSombra.pdb
+c:\users\rudarobson\documents\visual studio 2010\Projects\BoiNaSombra\BoiNaSombra\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rudarobson\documents\visual studio 2010\Projects\BoiNaSombra\BoiNaSombra\obj\Debug\BoiNaSombra.dll
+c:\users\rudarobson\documents\visual studio 2010\Projects\BoiNaSombra\BoiNaSombra\obj\Debug\BoiNaSombra.pdb
